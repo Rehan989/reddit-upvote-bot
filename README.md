@@ -1,5 +1,5 @@
 Dependencies:
-Python 3.7+
+Python 3.7+ and
 Praw
 
 This is a reddit upvote bot.
